@@ -17,6 +17,7 @@
 <ul>
 <li>DigiCert API key</li>
 <li>DigiCert Order Number</li>
+<li>Python Environment</li>
 </ul>
 <h3 id="csv--output-example">CSV  output example:</h3>
 

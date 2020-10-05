@@ -87,5 +87,5 @@
 </tr>
 </tbody>
 </table><h3 id="script">Script:</h3>
-<p><a href="https://github.com/remorseville/digicert_mutli_year_script/blob/main/myp_order_details.py">myp_order_details.py</a></p>
+<p><a href="https://github.com/remorseville/digicert_mutli_year_script">myp_order_details.py</a></p>
 

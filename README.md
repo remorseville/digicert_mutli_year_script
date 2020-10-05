@@ -9,8 +9,10 @@
 <li>DigiCert’s certificate management allows the ability to reissue and duplicate certificates, even adjusting the number of names included and/or setting a custom expiration date. They give no way to track this information in one place. Only the most recent version issued will show in some cases.</li>
 <li>DigiCert’s new offering of Multi year orders brings another element of management being a 6 year purchase can be made but the maximum validity any certificate can be issued is 397 days. Again, there is no current way to manage all the different versions of certificates under a single order through the UI.</li>
 </ul>
-<p>The current solution:<br>
-Through DigiCert’s API you can call both the “reissue” and duplicate" endpoints to get lists of the data you are after. This example provided uses those methods to export a CSV of any certificate issued from a given order number.</p>
+<p>The current solution:</p>
+<ul>
+<li>Through DigiCert’s API you can call both the “reissue” and duplicate" endpoints to get lists of the data you are after. This example uses those methods to export a CSV of any certificate details issued from a given order number, along with the order validity date.</li>
+</ul>
 <p>Pre-requisites:</p>
 <ul>
 <li>DigiCert API key</li>

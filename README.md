@@ -11,7 +11,7 @@
 </ul>
 <p>The current solution:</p>
 <ul>
-<li>Through DigiCert’s API you can call both the “reissue” and duplicate" endpoints to get lists of the data you are after. This example uses those methods to export a CSV of any certificate details issued from a given order number, along with the order validity date.</li>
+<li>Through DigiCert’s API you can call both the “reissue” and duplicate" endpoints to get lists of the data you are after. This example uses those methods to create and export a CSV of any certificate details issued from a given order number, along with the order validity date.</li>
 </ul>
 <p>Pre-requisites:</p>
 <ul>

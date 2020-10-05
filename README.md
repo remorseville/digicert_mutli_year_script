@@ -9,7 +9,7 @@ The problem:
 * DigiCert new offering of Multi year orders brings another element of management being a 6 year purchase can be made but the maximum validity any certificate can be issued is 397 days. Again, there is no current way to manage all the different versions of certificates under a single order through the UI. 
 
 The current solution:
-Through DigiCert's API you can call both the "reissue" and duplicate" endpoints to get lists of the data you are after. This example provided uses those methods to export a CSV of any certificate issued from a given order number. 
+* Through DigiCert's API you can call both the "reissue" and duplicate" endpoints to get lists of the data you are after. This example provided uses those methods to export a CSV of any certificate issued from a given order number. 
 
 Pre-requisites:
 * DigiCert API key

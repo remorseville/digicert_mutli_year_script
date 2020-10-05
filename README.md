@@ -20,9 +20,9 @@ Pre-requisites:
 
 | \#                                  | certificate\_id | thumbprint                                  | serial\_number                      | common\_name       | dns\_names                                   | status      | valid\_till     | days\_left | type         |
 |-------------------------------------|-----------------|---------------------------------------------|-------------------------------------|--------------------|----------------------------------------------|-------------|-----------------|------------|--------------|
-| 1                                   | 61170668        |  'XXXXX8E1DB3F846037173A34E232C9XXXXXXXXXX' |  'XXXXX383EAB199955DB2EAXXXXXXXXXX' |  'domain\.com' |  "'domain\.com'  'www\.domain\.com'" |  'issued'   |  '2021\-10\-23' | 384        |  'reissue'   |
-| 2                                   | 66114965        |  'XXXXX5C4578BB42DDEF820D4378FE0XXXXXXXXXX' |  'XXXXX2ACF5FCFE144E2725XXXXXXXXXX' |  'domain\.com' |  "'domain\.com'  'www\.domain\.com'" |  'issued'   |  '2021\-11\-02' | 394        |  'reissue'   |
-| 3                                   | 66115043        |  'XXXXXF0BFA6FEE2E949060F827A44BXXXXXXXXXX' |  'XXXXX8B8CE07828558254XXXXXXXXXX' |  'domain\.com' |  "'domain\.com'  'www\.domain\.com'" |  'approved' |  '2021\-11\-01' | 393        |  'duplicate' |
+| 1                                   | 611XXXX        |  'XXXXX8E1DB3F846037173A34E232C9XXXXXXXXXX' |  'XXXXX383EAB199955DB2EAXXXXXXXXXX' |  'domain\.com' |  "'domain\.com'  'www\.domain\.com'" |  'issued'   |  '2021\-10\-23' | 384        |  'reissue'   |
+| 2                                   | 6611XXXX        |  'XXXXX5C4578BB42DDEF820D4378FE0XXXXXXXXXX' |  'XXXXX2ACF5FCFE144E2725XXXXXXXXXX' |  'domain\.com' |  "'domain\.com'  'www\.domain\.com'" |  'issued'   |  '2021\-11\-02' | 394        |  'reissue'   |
+| 3                                   | 6611XXXX        |  'XXXXXF0BFA6FEE2E949060F827A44BXXXXXXXXXX' |  'XXXXX8B8CE07828558254XXXXXXXXXX' |  'domain\.com' |  "'domain\.com'  'www\.domain\.com'" |  'approved' |  '2021\-11\-01' | 393        |  'duplicate' |
 | Order Expiration Date: 2021\-12\-10 |                 |                                             |                                     |                    |                                              |             |                 |            |              |
 
 ### Script:
